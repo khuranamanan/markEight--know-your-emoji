@@ -6,7 +6,16 @@ const emojiDictionary = {
   "🐵": "Monkey Face Emoji",
   "🙈": "See-No-Evil Monkey Emoji",
   "🙉": "Hear-No-Evil Monkey Emoji",
-  "🙊": "Speak-No-Evil Monkey Emoji"
+  "🙊": "Speak-No-Evil Monkey Emoji",
+  "🦍": "Gorilla Emoji",
+  "🦧": "Orangutan Emoji",
+  "🐭": "Mouse Face Emoji",
+  "🐁": "Mouse Emoji",
+  "🐀": "Rat Emoji",
+  "🐹": "Hamster Emoji",
+  "🐰": "Rabbit Face Emoji",
+  "🐇": "Rabbit Emoji",
+  "🐿️": "Chipmunk Emoji "
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
@@ -30,7 +39,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Monkey Emoji Interpreter</h1>
+      <h1>Animal Emojis Interpreter</h1>
       <input onChange={onChangeEvent}></input>
       <div className="emojiMessage">{meaning}</div>
       <h2>Monkey Emojis</h2>
