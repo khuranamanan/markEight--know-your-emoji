@@ -1,6 +1,6 @@
 # markEight Know Your Emoji App - (Animal Emoji Interpreter)
 ## Description
-his is an Animal Emojis Interpreter. It will tell you about different kinds of Animal emojis.
+This is an Animal Emojis Interpreter. It will tell you about different kinds of Animal emojis.
 
 ## Acknowledgment
 This is the markeEight project of [levelZero](https://neog.camp/level-zero) course from [neog.camp](neog.camp). Here's the lesson [link.](https://neog.camp/guide/lessonFive)
