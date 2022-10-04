@@ -1,6 +1,3 @@
-# markEight--know-your-emoji
-Created with CodeSandbox
-
 # markEight Know Your Emoji App - (Animal Emoji Interpreter)
 ## Description
 his is an Animal Emojis Interpreter. It will tell you about different kinds of Animal emojis.
